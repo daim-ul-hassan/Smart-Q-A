@@ -1,0 +1,36 @@
+Machine Learning Fundamentals
+
+What is Machine Learning?
+Machine learning is a subset of artificial intelligence (AI) that focuses on developing algorithms and statistical models that enable computer systems to improve their performance on tasks through experience. Instead of being explicitly programmed to perform a task, machine learning systems learn from data patterns.
+
+Types of Machine Learning:
+1. Supervised Learning - The algorithm learns from labeled training data and makes predictions based on that data. Examples include classification and regression tasks.
+
+2. Unsupervised Learning - The algorithm finds hidden patterns in data without labeled responses. Common applications include clustering and dimensionality reduction.
+
+3. Reinforcement Learning - The algorithm learns by interacting with an environment and receiving rewards or penalties for actions taken.
+
+Key Concepts:
+- Training Data: The dataset used to train the machine learning model
+- Features: Input variables used by the model to make predictions
+- Labels: Output variables that the model predicts (in supervised learning)
+- Model: The mathematical representation learned from data
+- Overfitting: When a model learns training data too well, including noise, and performs poorly on new data
+- Underfitting: When a model fails to capture important patterns in the data
+
+Applications of Machine Learning:
+- Image recognition and computer vision
+- Natural language processing and translation
+- Recommendation systems (Netflix, Amazon)
+- Fraud detection in finance
+- Medical diagnosis
+- Autonomous vehicles
+
+The machine learning workflow typically involves:
+1. Data collection and preparation
+2. Feature engineering
+3. Model selection
+4. Training the model
+5. Evaluation and validation
+6. Hyperparameter tuning
+7. Deployment and monitoring
